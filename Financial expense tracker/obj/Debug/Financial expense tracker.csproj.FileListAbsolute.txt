@@ -1,0 +1,40 @@
+C:\Users\Dell\Desktop\Financial expense tracker\bin\Debug\Financial expense tracker.exe.config
+C:\Users\Dell\Desktop\Financial expense tracker\bin\Debug\Financial expense tracker.exe
+C:\Users\Dell\Desktop\Financial expense tracker\bin\Debug\Financial expense tracker.pdb
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmRegister.resources
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmLogin.resources
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.Properties.Resources.resources
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.exe
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.pdb
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmCategory.resources
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmItems.resources
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmWelcome.resources
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmChart.resources
+C:\Users\Dell\Desktop\Financial expense tracker\bin\Debug\Financial expense tracker.exe.manifest
+C:\Users\Dell\Desktop\Financial expense tracker\bin\Debug\Financial expense tracker.application
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.exe.manifest
+C:\Users\Dell\Desktop\Financial expense tracker\obj\Debug\Financial expense tracker.application
+C:\Users\Dell\Desktop\L5\Financial expense tracker\bin\Debug\Financial expense tracker.exe.config
+C:\Users\Dell\Desktop\L5\Financial expense tracker\bin\Debug\Financial expense tracker.exe.manifest
+C:\Users\Dell\Desktop\L5\Financial expense tracker\bin\Debug\Financial expense tracker.application
+C:\Users\Dell\Desktop\L5\Financial expense tracker\bin\Debug\Financial expense tracker.exe
+C:\Users\Dell\Desktop\L5\Financial expense tracker\bin\Debug\Financial expense tracker.pdb
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmCategory.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmChart.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmRegister.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmLogin.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmItems.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.Properties.Resources.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial_expense_tracker.frmWelcome.resources
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.exe.manifest
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.application
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.exe
+C:\Users\Dell\Desktop\L5\Financial expense tracker\obj\Debug\Financial expense tracker.pdb
